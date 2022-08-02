@@ -1,4 +1,4 @@
-## CheatSheets-DataScience
+## CheatSheets-DataScience-Pyspark
 A collection of cheatsheets,tips,Reference Guide for several data analysis libraries and frameworks
 + Pandas
 + Pyspark
