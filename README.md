@@ -574,13 +574,3 @@ df.withSeries("Height",pyheight2)
 ```
 
 
-
-#### Thanks For Your Time
-+ Jesus Saves @JCharisTech
-+ Jesse E.Agbe(JCharis)
-
-
-
-#### .
-+ Jesus Saves @JCharisTech
-+ By Jesse E.Agbe(JCharis)
